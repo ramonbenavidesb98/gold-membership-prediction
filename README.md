@@ -23,7 +23,7 @@ packages <- c("readr", "lubridate", "tidyverse", "ggplot2", "car", "corrgram", "
 
 -Please ensure that you have these packages installed before running the code.
 
--The dataset used for this analysis can be found at Superstore Dataset
+-The dataset used for this analysis can be found at https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset
 
 -Install the required packages as mentioned above by running install.packages("package_name") in the R console.
 
