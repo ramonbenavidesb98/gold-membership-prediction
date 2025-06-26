@@ -1,5 +1,6 @@
 # Gold Membership Prediction Analysis
 
+This was a group project completed as part of the Georgia Tech Master of Science in Analytics program.
 This data analysis project aims to develop a predictive model to identify customers with a higher likelihood of purchasing the "Gold Membership" offer at the superstore. The objective is to optimize the marketing campaign by targeting the appropriate customer segment and increasing the probability of a positive response to the offer.
 
 Folder Structure
@@ -22,7 +23,7 @@ packages <- c("readr", "lubridate", "tidyverse", "ggplot2", "car", "corrgram", "
 
 -Please ensure that you have these packages installed before running the code.
 
--The dataset used for this analysis can be found at https://www.dropbox.com/s/47xqmnl2464ee26/superstore_data.csv?dl=1
+-The dataset used for this analysis can be found at Superstore Dataset
 
 -Install the required packages as mentioned above by running install.packages("package_name") in the R console.
 
