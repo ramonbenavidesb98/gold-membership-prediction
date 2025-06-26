@@ -118,11 +118,8 @@ Income_NumStore_Interact
 Income_NumWeb_Interact
 Income_MntTotal_Spent 
 
-License
-This project is licensed under the Team20 Superstore Analytics Team License.
-
 Contact Information
-For any questions or inquiries, please contact Team20 Superstore Analytics Team.
+For questions about this project, feel free to reach out via GitHub.
 
 Acknowledgments
 We would like to acknowledge the contributions and support of the Team20 Superstore Analytics Team in conducting this analysis and developing the predictive model.
