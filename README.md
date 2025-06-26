@@ -1,9 +1,11 @@
-Gold Membership Prediction Analysis
+# Gold Membership Prediction Analysis
+
 This data analysis project aims to develop a predictive model to identify customers with a higher likelihood of purchasing the "Gold Membership" offer at the superstore. The objective is to optimize the marketing campaign by targeting the appropriate customer segment and increasing the probability of a positive response to the offer.
 
-Folder Structure final code/: This folder contains the Gold_Membership.Rmd file which is necessary to replicate our analysis and results in RStudio.
+Folder Structure
+final code/: This folder contains the Gold_Membership.Rmd file which is necessary to replicate our analysis and results in RStudio.
 
-Getting Started:
+## Getting Started:
 To run the final R code and reproduce the analysis, follow these steps:
 
 -Ensure you have R and RStudio installed on your machine.
@@ -14,6 +16,7 @@ To run the final R code and reproduce the analysis, follow these steps:
 
 -To run the analysis code for this project, the following R packages need to be installed and loaded:
 
+```R
 packages <- c("readr", "lubridate", "tidyverse", "ggplot2", "car", "corrgram", "RColorBrewer", "rpart", "rpart.plot", "randomForest", "caret", "ROCR",
               "rcompanion", "visreg", "MASS", "pscl", "dplyr", "pROC", "car", "ggplot2")
 
@@ -113,6 +116,9 @@ Teenhome_binary
 Income_NumStore_Interact 
 Income_NumWeb_Interact
 Income_MntTotal_Spent 
+
+Contributing
+Contributions to this data analysis project are welcome. If you wish to contribute, please follow the standard practices for code contributions, such as forking the repository, making changes, and submitting a pull request.
 
 License
 This project is licensed under the Team20 Superstore Analytics Team License.
