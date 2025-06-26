@@ -117,9 +117,6 @@ Income_NumStore_Interact
 Income_NumWeb_Interact
 Income_MntTotal_Spent 
 
-Contributing
-Contributions to this data analysis project are welcome. If you wish to contribute, please follow the standard practices for code contributions, such as forking the repository, making changes, and submitting a pull request.
-
 License
 This project is licensed under the Team20 Superstore Analytics Team License.
 
